@@ -71,4 +71,4 @@ A step by step series of examples that tell you how to get a development env run
 - [sass](https://sass-lang.com/) - css extension
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@menoo20](https://github.com/menoo20) - Solo work
+- [@jessybandya](https://github.com/jessybandya) - Solo work
